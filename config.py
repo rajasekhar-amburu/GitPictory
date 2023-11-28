@@ -3,7 +3,7 @@ gmail_password = 'password'
 
 config_pictory_url = 'https://app.pictory.ai/'
 
-chat_gpt_secret_key = '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'
+chat_gpt_secret_key = 'sk-rmau1xeP0NIfI0e5vBqsT3BlbkFasdfasdfJXQOn3XbA2RsnejmY0eAM'
 
 templates_list = ['Marketing', 'Business', 'Real Estate',
                   'Professional', 'Rouge', 'Sunrise', 'Wellness',
